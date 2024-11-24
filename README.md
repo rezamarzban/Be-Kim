@@ -1,7 +1,7 @@
 # Be-Kim
 Block all Windows 10 apps from using internet except one
 
-Be Kim Jung Un, The supreme leader of North Korea! Just by blocking all internet traffic in your Windows 10 except one app. In this case, you will become number one man on the world. let's go:
+Be Kim Jung Un, The supreme leader of North Korea! Just by blocking all internet traffic in your Windows 10 except one app. In this case, you will become number one man in the world. let's go:
 
 * Open **Windows Defender Firewall**.
 * Click on **Advanced settings** in the left panel.
